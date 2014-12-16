@@ -1,0 +1,25 @@
+{
+  "name": "pdx-iconography",
+  "version": "0.0.1",
+  "authors": [
+    "General Electric"
+  ],
+  "description": "Base icon styles for Predix Design Extension",
+  "main": "_base.iconography.scss",
+  "keywords": [
+    "pdx",
+    "sass",
+    "iconography",
+    "icons"
+  ],
+  "license": "Apache 2",
+  "homepage": "https://github.sw.ge.com/jrogerson/pdx-iconography.git",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
