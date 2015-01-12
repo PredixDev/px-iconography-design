@@ -1,4 +1,4 @@
-pdx-iconography
+px-iconography
 ===============
 
-Base icon styles for Predix Design Extension
+Base icon styles for Predix Experience

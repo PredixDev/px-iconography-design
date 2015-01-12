@@ -1,10 +1,10 @@
 {
-  "name": "pdx-iconography",
+  "name": "px-iconography",
   "version": "0.0.1",
   "authors": [
     "General Electric"
   ],
-  "description": "Base icon styles for Predix Design Extension",
+  "description": "Base icon styles for Predix Experience",
   "main": "_base.iconography.scss",
   "keywords": [
     "pdx",
@@ -13,7 +13,7 @@
     "icons"
   ],
   "license": "Apache 2",
-  "homepage": "git@github.sw.ge.com:jrogerson/pdx-iconography.git",
+  "homepage": "git://github.sw.ge.com/jrogerson/px-iconography.git",
   "private": true,
   "ignore": [
     "**/.*",
