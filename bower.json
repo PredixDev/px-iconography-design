@@ -7,10 +7,11 @@
   "description": "Base icon styles for Predix Experience",
   "main": "_base.iconography.scss",
   "keywords": [
-    "pdx",
+    "px",
     "sass",
     "iconography",
-    "icons"
+    "icons",
+    "font-awesome"
   ],
   "license": "Apache 2",
   "homepage": "git://github.sw.ge.com/jrogerson/px-iconography.git",
