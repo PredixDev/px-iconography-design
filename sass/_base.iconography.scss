@@ -1,4 +1,13 @@
+/*------------------------------------*\
+    #PX-ICONOGRAPHY
+\*------------------------------------*/
+
+/**
+ * Base icon styles for Predix Experience
+ */
+
 // Font Awesome file path
+
 $fa-font-path                           : "../icons";
 
-@import "lib/font-awesome/scss/font-awesome";
+@import "font-awesome/scss/font-awesome";
