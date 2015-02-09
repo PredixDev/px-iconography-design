@@ -1,5 +1,5 @@
 {
-  "name": "px-iconography",
+  "name": "px-iconography-design",
   "version": "0.0.1",
   "authors": [
     "General Electric"
@@ -14,7 +14,7 @@
     "font-awesome"
   ],
   "license": "Apache 2",
-  "homepage": "git://github.sw.ge.com/jrogerson/px-iconography.git",
+  "homepage": "git://github.sw.ge.com/pxc/px-iconography-design.git",
   "private": true,
   "ignore": [
     "**/.*",
