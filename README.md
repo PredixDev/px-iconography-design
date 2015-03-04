@@ -16,4 +16,6 @@ Install this module using bower
 
 Once installed, `@import` into your project's Sass file in its Base layer:
 
-    @import "px-iconography-design/sass/base.iconography";
+    @import "../px-iconography-design/base.iconography";
+
+See [px-getting-started](https://github.sw.ge.com/pxc/px-getting-started#a-note-about-relative-import-paths) for an explanation of the `../`
