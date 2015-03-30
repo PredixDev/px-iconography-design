@@ -12,10 +12,10 @@ If you are using FontAwesome, make sure it is installed as a dependency:
 
 Install this module using bower
 
-    bower install --save https://github.sw.ge.com/pxc/px-iconography-design.git
+    bower install --save https://github.sw.ge.com/PXd/px-iconography-design.git
 
 Once installed, `@import` into your project's Sass file in its Base layer:
 
     @import "../px-iconography-design/base.iconography";
 
-See [px-getting-started](https://github.sw.ge.com/pxc/px-getting-started#a-note-about-relative-import-paths) for an explanation of the `../`
+See [px-getting-started](https://github.sw.ge.com/PXd/px-getting-started#a-note-about-relative-import-paths) for an explanation of the `../`

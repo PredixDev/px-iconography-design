@@ -14,7 +14,7 @@
     "font-awesome"
   ],
   "license": "Apache 2",
-  "homepage": "git://github.sw.ge.com/pxc/px-iconography-design.git",
+  "homepage": "git://github.sw.ge.com/PXd/px-iconography-design.git",
   "private": true,
   "ignore": [
     "**/.*",
