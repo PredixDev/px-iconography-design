@@ -11,3 +11,12 @@
 $fa-font-path                           : "../icons";
 
 @import "../font-awesome/scss/font-awesome";
+
+[dir=rtl] {
+  [class~=fa] {
+    &[class*="-left"],
+    &[class*="-right"] {
+      transform: scale(-1, 1);
+    }
+  }
+}
