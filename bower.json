@@ -1,6 +1,6 @@
 {
   "name": "px-iconography-design",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "authors": [
     "General Electric"
   ],
@@ -24,6 +24,6 @@
     "tests"
   ],
   "dependencies": {
-    "font-awesome": "~4.2.0"
+    "font-awesome": "~4.3.0"
   }
 }
