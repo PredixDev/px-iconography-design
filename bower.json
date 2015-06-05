@@ -1,6 +1,6 @@
 {
   "name": "px-iconography-design",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "authors": [
     "General Electric"
   ],
@@ -14,7 +14,7 @@
     "font-awesome"
   ],
   "license": "Apache 2",
-  "homepage": "git://github.sw.ge.com/PXd/px-iconography-design.git",
+  "homepage": "git://github.build.ge.com/PXd/px-iconography-design.git",
   "private": true,
   "ignore": [
     "**/.*",
@@ -24,6 +24,7 @@
     "tests"
   ],
   "dependencies": {
-    "font-awesome": "~4.3.0"
+    "font-awesome": "~4.3.0",
+    "px-functions-design": "git://github.build.ge.com/PXd/px-functions-design.git#~0.1.0"
   }
 }
