@@ -1,6 +1,6 @@
 {
   "name": "px-iconography-design",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Base icon styles for Predix Experience",
   "private": true,
   "scripts": {
