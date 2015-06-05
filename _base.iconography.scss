@@ -1,38 +1,40 @@
-/*------------------------------------*\
-    #PX-ICONOGRAPHY-DESIGN
-\*------------------------------------*/
+////
+/// PX-ICONOGRAPHY-DESIGN
+/// Defines styles for sets of icons.
+/// @group px-iconography-design
+////
 
-/**
- * Base icon styles for Predix Experience
- */
+/// @type String [default] - Path to FontAwesome fonts
+$fa-font-path : "../icons";
 
-// Font Awesome file path
-
-$fa-font-path                           : "../icons";
-
+@import "../px-functions-design/tools.functions";
 @import "../font-awesome/scss/font-awesome";
 
-[dir=rtl] {
-  .fa-chevron-left,
-  .fa-chevron-right,
-  .fa-chevron-circle-left,
-  .fa-chevron-circle-right,
-  .fa-angle-left,
-  .fa-angle-right,
-  .fa-angle-double-left,
-  .fa-angle-double-right,
-  .fa-arrow-circle-left,
-  .fa-arrow-circle-right,
-  .fa-arrow-circle-o-left,
-  .fa-arrow-circle-o-right {
-    transform: scale(-1, 1);
+@if import-once('base.iconography') {
+
+  [dir=rtl] {
+    .fa-chevron-left,
+    .fa-chevron-right,
+    .fa-chevron-circle-left,
+    .fa-chevron-circle-right,
+    .fa-angle-left,
+    .fa-angle-right,
+    .fa-angle-double-left,
+    .fa-angle-double-right,
+    .fa-arrow-circle-left,
+    .fa-arrow-circle-right,
+    .fa-arrow-circle-o-left,
+    .fa-arrow-circle-o-right {
+      transform: scale(-1, 1);
+    }
+  
+    //TODO: replace the above whitelist with the variable driven Sass below....Polymer 0.8.0-rcX currently chokes on this
+  //  [class~=fa] {
+  //    &[class*="-left"],
+  //    &[class*="-right"] {
+  //      transform: scale(-1, 1);
+  //    }
+  //  }
   }
 
-  //TODO: replace the above whitelist with the variable driven Sass below....Polymer 0.8.0-rcX currently chokes on this
-//  [class~=fa] {
-//    &[class*="-left"],
-//    &[class*="-right"] {
-//      transform: scale(-1, 1);
-//    }
-//  }
 }
