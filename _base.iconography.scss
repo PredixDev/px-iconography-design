@@ -5,7 +5,7 @@
 ////
 
 /// @type String [default] - Path to FontAwesome fonts
-$fa-font-path : "../icons";
+$fa-font-path : "../icons" !default;
 
 @import "../px-functions-design/tools.functions";
 @import "../font-awesome/scss/font-awesome";
