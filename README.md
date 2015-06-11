@@ -6,13 +6,12 @@ The Predix Experience Iconography module defines styles for icon sets like FontA
 
 You can review Sass Documentation here: https://github.build.ge.com/pages/PXd/px-iconography-design/sassdoc
 
-## Dependency
+## Dependencies
 
-If you are using FontAwesome, make sure it is installed as a dependency:
+Px's Buttons module depends on one other Px module and third party library Font Awesome:
 
-* [FontAwesome](http://fontawesome.io)
-
-Icons currently available under FontAwesome are in this [cheatsheet](http://fortawesome.github.io/Font-Awesome/cheatsheet/)
+* [Font Awesome](http://fontawesome.io)
+* [px-functions-design](https://github.build.ge.com/PXd/px-functions-design)
 
 ## Installation
 
@@ -37,3 +36,5 @@ All rulesets are wrapped in the following `@if` statement:
 The following variables are available for use in the module:
 
     $fa-font-path
+
+Icons currently available under Font Awesome are in this [cheatsheet](http://fortawesome.github.io/Font-Awesome/cheatsheet/)
