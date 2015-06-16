@@ -7,7 +7,7 @@
 /// @type String [default] - Path to FontAwesome fonts
 $fa-font-path : "../font-awesome/fonts" !default;
 
-@import "../font-awesome/scss/font-awesome";
+@import "font-awesome/scss/font-awesome.scss";
 
 [dir=rtl] {
   .fa-chevron-left,
