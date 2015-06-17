@@ -8,10 +8,9 @@ You can review Sass Documentation here: https://github.build.ge.com/pages/PXd/px
 
 ## Dependencies
 
-Px's Buttons module depends on one other Px module and third party library Font Awesome:
+Px's Iconography module depends on the third party Font Awesome library:
 
 * [Font Awesome](http://fontawesome.io)
-* [px-functions-design](https://github.build.ge.com/PXd/px-functions-design)
 
 ## Installation
 
@@ -21,15 +20,7 @@ Install this module using bower
 
 Once installed, `@import` into your project's Sass file in its Base layer:
 
-    @import "../px-iconography-design/base.iconography";
-
-See [px-getting-started](https://github.build.ge.com/PXd/px-getting-started#a-note-about-relative-import-paths) for an explanation of the `../`
-
-## Import once
-
-All rulesets are wrapped in the following `@if` statement:
-
-    @if import-once('base.iconography') { ... }
+    @import "px-iconography-design/_base.iconography.scss";
 
 ## Usage
 
