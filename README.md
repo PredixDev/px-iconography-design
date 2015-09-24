@@ -2,9 +2,7 @@
 
 The Predix Experience Iconography module defines styles for icon sets like FontAwesome.
 
-## Sass Documentation
 
-You can review Sass Documentation here: https://github.com/pages/PredixDev/px-iconography-design/sassdoc
 
 ## Dependencies
 
