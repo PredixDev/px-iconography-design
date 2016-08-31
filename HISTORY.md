@@ -1,3 +1,7 @@
+v0.3.0
+==============================
+* Added new iconography style module 'iconography-styles.html'
+
 v0.2.10
 ==============================
 * updated oss notice and readme, pointing to gh-pages
