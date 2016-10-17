@@ -1,3 +1,7 @@
+v0.2.11
+==============================
+* added new demo and auto-ghp
+
 v0.2.10
 ==============================
 * updated oss notice and readme, pointing to gh-pages
