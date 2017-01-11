@@ -1,3 +1,7 @@
+v0.3.8
+==================
+* changing ghp.sh to account for Alpha releases
+
 v0.3.7
 ==================
 * Updated dependencies
