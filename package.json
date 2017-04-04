@@ -1,6 +1,6 @@
 {
     "name": "px-iconography-design",
-    "version": "0.3.10",
+    "version": "0.3.11",
     "description": "Base icon styles for Predix UI",
     "private": false,
     "scripts": {
@@ -30,5 +30,8 @@
         "sassdoc": "^2.1.20",
         "stream-combiner2": "^1.1.1",
         "yargs": "^6.0.0"
+    },
+    "dependencies": {
+        "font-awesome": "~4.4.0"
     }
 }

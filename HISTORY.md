@@ -1,3 +1,11 @@
+v0.3.11
+==================
+* add dependencies for publishing to NPM
+
+v0.3.10
+==================
+* update demo page with px-demo classes
+
 v0.3.9
 ==================
 * rebuilt sass with new colors
