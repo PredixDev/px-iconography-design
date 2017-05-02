@@ -1,3 +1,7 @@
+v1.0.0
+==================
+* Major version bump for redesign
+
 v0.3.11
 ==================
 * add dependencies for publishing to NPM
