@@ -1,6 +1,6 @@
-# Iconography
+# px-iconography-design
 
-The Predix UI Iconography module defines styles for icon sets like FontAwesome.
+The px-iconography-design module defines styles for icon sets like FontAwesome.
 
 ## Dependencies
 
