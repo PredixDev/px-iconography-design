@@ -1,16 +1,16 @@
 # px-iconography-design
 
-The px-iconography-design module defines styles for icon sets like FontAwesome.
+The Predix UI Iconography module defines styles for icon sets like FontAwesome.
 
 ## Dependencies
 
-Predix UI's Iconography module depends on the third party Font Awesome library:
+The `px-iconography-design` module depends on the third party Font Awesome library:
 
 * [Font Awesome](http://fontawesome.io)
 
 ## Installation
 
-Install this module using bower
+Install this module using bower:
 
     bower install --save px-iconography-design
 
@@ -26,4 +26,4 @@ The following variables are available for use in the module:
 
 Icons currently available under Font Awesome are in this [cheatsheet](http://fortawesome.github.io/Font-Awesome/cheatsheet/)
 
-view full API [here](http://predixdev.github.io/px-iconography-design/sassdoc/)
+View full API [here](http://predixdev.github.io/px-iconography-design/sassdoc/).
