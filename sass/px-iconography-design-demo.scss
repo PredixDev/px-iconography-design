@@ -31,10 +31,11 @@ PAGE. IT SHOULD NOT PROVIDE RULES FOR THE MODULE.
 @import "px-flexbox-design/_base.flexbox.scss";
 @import "px-viewport-design/_base.viewport.scss";
 
+$fa-font-path : "../../font-awesome/fonts" !default;
+
 @import "../_base.iconography.scss";
 
 // Component
-
 
 // Trumps
 @import "px-spacing-responsive-design/_trumps.spacing-responsive.scss";

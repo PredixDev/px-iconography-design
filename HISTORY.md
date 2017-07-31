@@ -1,3 +1,7 @@
+v1.0.1
+==================
+* Change font path for demo
+
 v1.0.0
 ==================
 * Major version bump for redesign
