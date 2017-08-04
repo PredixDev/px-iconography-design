@@ -1,3 +1,7 @@
+v1.0.2
+==================
+* runtime theming for demo
+
 v1.0.1
 ==================
 * Change font path for demo
