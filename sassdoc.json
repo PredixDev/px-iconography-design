@@ -2,8 +2,8 @@
     {
         "description": "Path to FontAwesome fonts\n",
         "commentRange": {
-            "start": 7,
-            "end": 9
+            "start": 23,
+            "end": 25
         },
         "context": {
             "type": "variable",
@@ -11,8 +11,8 @@
             "value": "\"../font-awesome/fonts\"",
             "scope": "default",
             "line": {
-                "start": 10,
-                "end": 10
+                "start": 26,
+                "end": 26
             }
         },
         "group": [
